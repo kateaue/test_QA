@@ -15,7 +15,7 @@ public class Basic {
     public static String DATE_OF_BIRTH = "2002-10-10";
 
     // User's Preferences
-    public static String SUBJECT = "Mathematics";
+    public static String SUBJECT = "Mathematic";
     public static String HOBBY = "Sports";
 
     // User's Location
